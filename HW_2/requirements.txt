@@ -1,0 +1,6 @@
+Used Tools and versions:
+
+Python Version: 3.14.7
+NumPy version: 2.5.3
+SciPy Version: 1.18.1
+Matplotlib version: 3.11.1
