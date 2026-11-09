@@ -1,0 +1,5 @@
+--- Environment & Package Versions ---
+Python version:    3.13.9
+NumPy version:     2.3.5
+Matplotlib version:3.10.6
+SciPy version:     1.16.3
