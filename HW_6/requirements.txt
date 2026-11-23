@@ -1,0 +1,5 @@
+Python version:     3.14.10
+NumPy version:      2.4.6
+pandas version:     2.3.3
+Matplotlib version: 3.10.8
+SciPy version:      1.16.2
